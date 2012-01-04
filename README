@@ -1,0 +1,15 @@
+FastDB is a single PHP navigation script for Fast and Simple MySQL and PostgreSQL databases.
+
+It is fast and easy for use because it has only one single file.
+It’s very straightforward to use and the interface is simple and minimalistic.
+If you are working with hosting MySQL databases, and pick up data from them frequently, this script may make your life easy working with them.
+
+    navigate and paginate through database tables
+    export table data in batch files
+    SQL editor helps you fire queries from database
+    download, uncompress and use it. no configuration needed.
+
+This is a drag-drop to use script. Just download the zip and uncompress it to your web directory, than start to use.
+
+You may try FastDB on the demo link below.
+http://www.nexonsoft.eu/demo/fastdb/fastdb.php
